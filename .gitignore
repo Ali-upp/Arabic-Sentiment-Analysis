@@ -1,0 +1,5 @@
+venv/
+.idea/
+__pycache__/
+*.pyc
+arabic_sentiment_reviews.csv
